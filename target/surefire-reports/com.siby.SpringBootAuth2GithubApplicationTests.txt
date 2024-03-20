@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.siby.SpringBootAuth2GithubApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.258 s -- in com.siby.SpringBootAuth2GithubApplicationTests
